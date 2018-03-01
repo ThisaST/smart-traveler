@@ -54,4 +54,6 @@ dependencies {
     // https://mvnrepository.com/artifact/io.reactivex.rxjava2/rxandroid
     compile group: 'io.reactivex.rxjava2', name: 'rxandroid', version: '2.0.1'
 
+    //for google sign in
+    compile 'com.google.android.gms:play-services-auth:11.8.0'
 }
